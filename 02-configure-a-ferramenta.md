@@ -19,7 +19,7 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Configura o nome que você quer ligado às suas transações de commit -->
 
 **Quando usar / observação:**
 
@@ -35,7 +35,7 @@ git config --global user.email "[endereco-de-email]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Configura o email que você quer ligado às suas transações de commit -->
 
 **Quando usar / observação:**
 
@@ -45,8 +45,8 @@ git config --global user.email "[endereco-de-email]"
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git config --global user.name "[nome]"`
-- [ ] 2. `git config --global user.email "[endereco-de-email]"`
+- [x] 1. `git config --global user.name "[nome]"`
+- [x] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
 

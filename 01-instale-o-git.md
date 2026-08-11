@@ -17,11 +17,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!--O GitHub para Windows é um aplicativo com interface gráfica que facilita o uso de repositórios Git no Windows.
+Eu usaria para clonar repositórios, acompanhar alterações, criar commits e sincronizar projetos com o GitHub sem precisar usar a linha de comando.-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- É uma boa opção para quem prefere uma interface visual e está começando a trabalhar com Git no Windows -->
 
 ---
 
@@ -31,11 +32,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- O GitHub para Mac é um aplicativo com interface gráfica que facilita o gerenciamento de repositórios Git no macOS.
+Eu usaria para clonar repositórios, visualizar alterações, criar commits e sincronizar projetos com o GitHub de forma visual. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- É indicado para usuários de Mac que preferem utilizar uma interface gráfica em vez dos comandos do Git. -->
 
 ---
 
@@ -45,11 +47,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- O Git é um sistema de controle de versão distribuído usado para acompanhar alterações no código e em outros arquivos de um projeto.
+Eu usaria para criar e gerenciar repositórios, registrar alterações, trabalhar com branches e colaborar com outras pessoas em projetos. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- É a opção mais completa e funciona em diferentes sistemas operacionais, sendo essencial para quem precisa utilizar o Git pela linha de comando. -->
 
 ---
 
